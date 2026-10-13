@@ -83,6 +83,4 @@ Building, experimenting, and learning around: <br>
   <em>'AI x Software' | 'Product Engineering' | 'Creative Interfaces'</em>
 
 I especially enjoy projects where design, engineering, and emerging technology overlap.
-
-   
 and best practices to build efficient applications.
